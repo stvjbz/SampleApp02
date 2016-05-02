@@ -9,8 +9,20 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.stvjbz.sampleapp02.MainActivity">
 
-    <TextView
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="@string/button_pickup"
+        android:id="@+id/button1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_no_dinner"
+        android:id="@+id/button2"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/button1"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
