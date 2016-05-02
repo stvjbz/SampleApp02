@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SampleApp02</string>
+    <string name="button_pickup">pick up</string>
+    <string name="button_no_dinner">no dinner</string>
+    <string name="button_send">send</string>
+    <string name="subject">subject</string>
+    <string name="place">place</string>
+    <string name="station">station</string>
+    <string name="school">school</string>
+    <string name="always">always</string>
+    <string name="mail_to">test@gmail.com</string>
 </resources>
