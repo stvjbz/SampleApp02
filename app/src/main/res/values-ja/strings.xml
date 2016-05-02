@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SampleApp02</string>
+    <string name="app_name">サンプルアプリ０２</string>
     <string name="always">いつもの場所</string>
     <string name="button_no_dinner">ご飯要らない</string>
     <string name="button_pickup">迎えに来て</string>
